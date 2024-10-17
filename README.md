@@ -114,6 +114,6 @@ This is where you can give a hat tip to anyone who helped you out on this projec
 - 1.0.0 - Initial Code.
 
 ## To Do
-- [-] Validate HTML.
+- [-] *Learning* Setup fonts according to design sys.
 - [-] Start styling.
 - [-] Refactor SVG.
