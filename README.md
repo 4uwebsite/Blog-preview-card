@@ -114,6 +114,5 @@ This is where you can give a hat tip to anyone who helped you out on this projec
 - 1.0.0 - Initial Code.
 
 ## To Do
-- [-] *Learning* Setup fonts according to design sys.
-- [-] Start styling.
+- [-] Style 4k/375 responsive.
 - [-] Refactor SVG.
