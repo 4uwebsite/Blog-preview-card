@@ -180,4 +180,9 @@ main {
         font-size: 1.25rem;
     }
 }
+@media only screen and (max-width: 350px) {
+    main {
+        max-width: 18em;
+    }
+}
 /* MEDIA QUERIES - END */
