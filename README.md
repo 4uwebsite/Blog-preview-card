@@ -111,8 +111,8 @@ This is where you can give a hat tip to anyone who helped you out on this projec
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
 
 ## Version Control
+- 1.0.1 - Alpha.
 - 1.0.0 - Initial Code.
 
 ## To Do
-- [-] Implement Active State.
-- [-] Refactor.
+- [-] Refactor & Validation (SEM/BEM/QA).

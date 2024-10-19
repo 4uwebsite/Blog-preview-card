@@ -95,9 +95,16 @@ p, h1, h2, h3, h4, h5, h6 {
     font-size: 0.875rem;
 } */
 /* Font Presets */
-.text-preset-1 {
+.text-preset-1, .content__title a, .content__title a:visited {
     font-family: 'Figtree-ExtraBold';
     font-size: 1.5rem;
+    text-decoration: none;
+    color: var(--gray-950);
+    outline: none;
+    transition: color 0.3s ease;
+}
+.content__title a:hover, .content__title a:focus {
+    color: var(--yellow);
 }
 .text-preset-2 {
     font-family: 'Figtree-SemiBold';
@@ -148,6 +155,9 @@ main {
     padding: var(--space-50) var(--space-150);
     border-radius: var(--space-50);
 }
+/* .content__title a {
+    
+} */
 .author {
     display: flex;
     flex-wrap: nowrap;
