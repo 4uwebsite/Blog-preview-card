@@ -117,21 +117,21 @@ main {
 
 
 /* CLASSES & IDs - START */
-.image {
+.main__image {
     width: 100%;
     border-radius: 0.625em;
 }
-.content {
+.main__content {
     margin: var(--space-300) 0;
 }
-.category {
+.content__category {
     padding: var(--space-50) var(--space-150);
     border-radius: var(--space-50);
 }
-.author {
+.main__author {
     gap: var(--space-150);
 }
-.author img {
+.main__author img {
     width: 2em;
 }
 /* CLASSES & IDs - END */
@@ -156,7 +156,7 @@ main {
     .content__title a {
         font-size: 1.4rem;
     }
-    .author .name {
+    .main__author .author__name {
         font-size: 0.875rem;
     }
     .text-preset-3 {
